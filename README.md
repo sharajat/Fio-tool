@@ -1,2 +1,2 @@
 # Fio-tool
-Flexible input output testing tool with parallel ssh. 
+Flexible input-output testing tool with parallel ssh. 
